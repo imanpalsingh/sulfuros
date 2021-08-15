@@ -1,0 +1,13 @@
+.action {
+  height: fit-content;
+  width: fit-content;
+  border-radius: 50%;
+  background: white;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 5px;
+  min-height: 30px;
+  min-width: 30px;
+}
